@@ -1,2 +1,2 @@
-server:
-  port: 80
+config:
+  info: 读取到了配置服务器
